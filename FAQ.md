@@ -1,5 +1,3 @@
-FAQ
-===
 
 1. q1: what?
 A: that

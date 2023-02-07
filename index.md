@@ -1,6 +1,6 @@
 ---
 title: Brainpaingames
-layout: page
+layout: home
 ---
 
 Index content here

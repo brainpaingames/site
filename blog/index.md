@@ -5,7 +5,3 @@ layout: page
 title: Brainpaingames
 ---
 
-Front page
-==========
-
-content for front page
